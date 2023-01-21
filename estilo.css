@@ -19,15 +19,18 @@ body {
     background-image: url(https://img.myloview.com.br/fotomurais/vector-geometric-seamless-pattern-modern-geometric-background-striped-grid-700-212309171.jpg);
     font-family: verdana;
     background-color: aliceblue;
-    padding: 20px;
+    padding: 0px;
     text-align: center;
 }
 .corpo {
     font-size: large;
+    text-align: center;
     margin-right: auto;
     margin-left: auto;
-    width: 30%;
+    width: 50%;
     height: 80%;
+    padding-right: 10px;
+    padding-left: 10px;
     padding-bottom: 35px;
     padding-top: 20px;
     margin-bottom: 10px;
